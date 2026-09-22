@@ -1,0 +1,1 @@
+chạy tv_launch và tv_health_check
